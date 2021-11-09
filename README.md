@@ -1,7 +1,7 @@
 # 👋Welcome! To the Javascript_learnings
 
 ### This Repository  contains Study Notes of JavaScript with a test-driven approach. Each file contains an annotated tutorial for better understanding of the  JavaScript topic.
-# In This Process
+# Table Of Content
 
 - Console logs, Errors, Warnings and More
 
