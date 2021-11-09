@@ -1,19 +1,17 @@
 # 👋Welcome! To the Javascript_learnings
 
 ### This Repository  contains Study Notes of JavaScript with a test-driven approach. Each file contains an annotated tutorial for better understanding of the  JavaScript topic.
-# My Process
+# In This Process
 
-## Build With
+- Console logs, Errors, Warnings and More
 
-- Semantic HTML5 Markup
+- Variables: Let, const, var
 
-- Css Custom Properties
+- Primitive And Refrence Data Types
 
-- Flex Box
+- Type conversion and coercion
 
-- Mobile First Workflow
-
-- Css Grid
+- Arrays and Objects
 
 
 ## Author
